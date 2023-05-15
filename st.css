@@ -1,0 +1,12 @@
+.anu{
+    font-size: 1.5em;
+}
+
+div p{
+    border: 2px solid red;
+    font-size: 1.5em;
+}
+
+.parent{
+    font-size: 20px;
+}
